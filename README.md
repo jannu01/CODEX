@@ -5,11 +5,13 @@
     <meta charset="utf-8" />
     <title>
             GIT REQ for html webpages 
-<h1>Added to the Git repository </h1>
+
     </title>
 </head> 
-<body>
+<body
+    <h1>Added to the Git repository </h1>
+    <h2> hello world of git repository .. </h2>
 
-    hello world of git repository .. 
+   
 </body>
 </html>
